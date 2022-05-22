@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center"> Hi!, I'm Ravindra Kumar 🧑‍💻 </h1>
 
-<!--
-**raoricha/raoricha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">  Computer Science Student | Web developer | Competitive programmer  </h3> <br>
 
-Here are some ideas to get you started:
+<p align="center"> 
+Connect With me on  <a href="https://www.linkedin.com/in/ravindra-kumar-99a1301b2/" target="_blank" >Linkedin</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 🤔 About
+-  **Learning :** Front-End | Back-End|Competitive Programmin|C|C++|Java" **
+-  **Hobbies :** Learning from Youtube| Music | Programming **
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 📊 Profile stats
+
+[![Ravindra Kumar GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravindra9555)](https://github.com/anuraghazra/github-readme-stats)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
