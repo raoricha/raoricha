@@ -1,4 +1,4 @@
-<h1 align="center"> Hi!, I'm Ravindra Kumar 🧑‍💻 </h1>
+<h1 align="center"> Hi!, I'm Richa Rao 🧑‍💻 </h1>
 
 <h3 align="center">  Computer Science Student | Web developer | Competitive programmer  </h3> <br>
 
@@ -14,6 +14,6 @@ Connect With me on  <a href="https://www.linkedin.com/in/ravindra-kumar-99a1301b
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📊 Profile stats
 
-[![Ravindra Kumar GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravindra9555)](https://github.com/anuraghazra/github-readme-stats)
+[![Richa rao GitHub stats](https://github-readme-stats.vercel.app/api?username=raoricha)](https://github.com/anuraghazra/github-readme-stats)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
