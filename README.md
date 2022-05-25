@@ -1,15 +1,15 @@
 <h1 align="center"> Hi!, I'm Richa Rao 🧑‍💻 </h1>
 
-<h3 align="center">  Computer Science Student | Web developer | Competitive programmer  </h3> <br>
+<h3 align="center">  Computer Science Student | Frontend Developer  </h3> <br>
 
 <p align="center"> 
-Connect With me on  <a href="https://www.linkedin.com/in/ravindra-kumar-99a1301b2/" target="_blank" >Linkedin</a>
+Connect With me on  <a href="https://www.linkedin.com/in/richa-rao-b74a961bb" target="_blank" >Linkedin</a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🤔 About
--  **Learning :** Front-End | Back-End|Competitive Programmin|C|C++|Java" **
--  **Hobbies :** Learning from Youtube| Music | Programming **
+-  **Learning :** Front-End | Back-End|Competitive Programmin|C|Java|Python" **
+-  **Hobbies :** Learning new technologies| Music | Programming **
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📊 Profile stats
