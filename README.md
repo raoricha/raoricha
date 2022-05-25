@@ -1,4 +1,4 @@
-<h1 align="center"> Hi!, I'm Richa Rao 🧑‍💻 </h1>
+<h1 align="center"> Hi!, I'm Richa Rao </h1>
 
 <h3 align="center">  Computer Science Student | Frontend Developer  </h3> <br>
 
@@ -8,7 +8,7 @@ Connect With me on  <a href="https://www.linkedin.com/in/richa-rao-b74a961bb" ta
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🤔 About
--  **Learning :** Front-End | Back-End|Competitive Programmin|C|Java|Python" **
+-  **Learning :** Front-End | Back-End |Competitive Programmin|C|Java|Python" **
 -  **Hobbies :** Learning new technologies| Music | Programming **
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
