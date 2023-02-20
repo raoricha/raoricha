@@ -1,6 +1,7 @@
 # Hey!, I'm Richa Rao
 - B.tech(Computer Science & Engineering)
 - Frontend Developer/DSA/Java
+- 2 star Codechef
 
 ## Leetcode Profile
 ![](https://leetcard.jacoblin.cool/R_ritcha?theme=light,unicorn)
