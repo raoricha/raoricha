@@ -1,4 +1,4 @@
-# Hey!, I'm Richa Rao
+## Hey!, I'm Richa Rao
 - B.tech(Computer Science & Engineering)
 - Frontend Developer/DSA/Java
 - 2 star Codechef
