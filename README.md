@@ -1,6 +1,6 @@
 ## Hey!, I'm Richa Rao
 - B.tech(Computer Science & Engineering)
-- Web Developer/DSA/Java
+- Web Developer/Data Structure & Algorithms/Java
 - 2 star Codechef
 
 ## Leetcode Profile
