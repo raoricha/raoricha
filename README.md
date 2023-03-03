@@ -1,4 +1,4 @@
-## Hey!, This is Richa.
+## Hey!, This is Richa Rao.
 - B.tech(Computer Science & Engineering)
 - Web Developer/Data Structure & Algorithms/Java
 - 2 star Codechef
