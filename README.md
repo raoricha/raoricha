@@ -4,7 +4,7 @@
 - 2 star Codechef
 
 ## Leetcode Profile
-![](https://leetcard.jacoblin.cool/R_ritcha?theme=light,unicorn)
+![](https://leetcard.jacoblin.cool/d_richa?theme=light,unicorn)
 
 
 ## Tech Stack
